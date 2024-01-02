@@ -1,0 +1,1 @@
+![k8s architecture diagram](DAY_2/README.MD/Kubernetes-architecture-diagram-1-1.png)

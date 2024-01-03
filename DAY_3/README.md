@@ -1,7 +1,7 @@
 
 To further break down what kubernetes means and explain some of the key components of the tool, i decided to use the example of a market to further explain it, so even kids can understand it better.
 
-let's imagine Kubernetes (K8s) as a bustling Nigerian market where various sellers come together to sell their goods. In this market, there's a central coordinator, which we'll call the "Market Master." The Market Master's job is to ensure everything runs smoothly and that each seller can sell their goods without any issues.
+let's imagine Kubernetes (K8s) as a bustling Nigerian market where various sellers come together to sell their goods. In this market, there's a central coordinator, which we'll call the "Market King." The Market King's job is to ensure everything runs smoothly and that each seller can sell their goods without any issues.
 
 Nodes (Sellers):
 
@@ -27,8 +27,8 @@ ConfigMaps and Secrets (Special Instructions and Hidden Recipes):
 
 Some sellers have special instructions or secret recipes for their goods. In Kubernetes, we use ConfigMaps and Secrets to store special configurations or secret information that the pods may need to run properly.
 
-Master Node (Market Master):
+Master Node (Market King):
 
-Lastly, overseeing everything in the marketplace is the Market Master (master node). The Market Master keeps track of all the sellers (nodes), ensures they are healthy, and manages the overall coordination of the marketplace. It makes sure the right goods are available, and everything is working as it should.
+Lastly, overseeing everything in the marketplace is the Market King (master node). The Market king keeps track of all the sellers (nodes), ensures they are healthy, and manages the overall coordination of the marketplace. It makes sure the right goods are available, and everything is working as it should.
 
-So, in the Nigerian marketp of Kubernetes, sellers (nodes) carry baskets (pods) of goods (containers), the information booth (service) helps customers find what they need, and the Market Master (master node) ensures that the entire marketplace runs smoothly.
+So, in the Nigerian market of Kubernetes, sellers (nodes) carry baskets (pods) of goods (containers), the information booth (service) helps customers find what they need, and the Market King (master node) ensures that the entire marketplace runs smoothly.
